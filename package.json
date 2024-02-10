@@ -1,0 +1,25 @@
+{
+  "name": "george-timer",
+  "version": "1.0.0",
+  "description": "millisecond timer especially useful for landing pages ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-bits-coder/george-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "millisecond-timer",
+    "react-timer",
+    "landingpage-timer"
+  ],
+  "author": "George Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-bits-coder/george-timer/issues"
+  },
+  "homepage": "https://github.com/george-bits-coder/george-timer#readme"
+}
